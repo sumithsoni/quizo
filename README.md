@@ -1,1 +1,5 @@
-# quizo.com
+<HTML><HEAD>
+  <TITLE>
+    HOME PAGE
+  </TITLE>
+  </HEAD></HTML>
